@@ -316,7 +316,6 @@ cldreader.html
 cldriftboss.html
 cldrifthunters.html
 cldrivemad.html
-cldrivenwild.html
 cldrmario.html
 cldubstep.html
 clduckhunt.html
@@ -761,6 +760,7 @@ clracingarena.html
 clradicalred.html
 clraftwars.html
 clragdollarchers.html
+clragdollhit.html
 clragdollio.html
 clragdollsoccer.html
 clrainbowsix.html
