@@ -1025,10 +1025,10 @@ clupgradecomplete.html
 clupgradecomplete2.html
 clvanguard.html
 clvex.html
+clvex3.html
 clvex4.html
 clvex5.html
 clvex6.html
-clvex8.html
 clvex8.html
 clvillager.html
 clvolleyrandom.html
