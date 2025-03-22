@@ -170,6 +170,7 @@ clbloonsTD1.html
 clbloonsTD2.html
 clbloonsTD3.html
 clbloonsTD4.html
+clbloonsTD5.html
 clbloxorz.html
 clbntts.html
 clbobtherobber.html
@@ -225,6 +226,8 @@ clchickenwar.html
 clchipschallenge.html
 clchoppyorc.html
 clchronotrigger.html
+clciviballs.html
+clciviballs2.html
 clcleanupio.html
 clclearvision.html
 clclearvision2.html
@@ -250,6 +253,9 @@ clcookieclicker.html
 clcookieclicker.txt
 clcookieclickercool.html
 clcookieclickergood.html
+clcookingmama.html
+clcookingmama2.html
+clcookingmama3.html
 clcoreball.html
 clcotlk.html
 clcrashbandicoot.html
@@ -322,14 +328,16 @@ cldunkshot.html
 clduskchild.html
 cldyingdreams.html
 clearntodie.html
-clearntodie.html
 clearthbound.html
 clearthbound3.html
 clearthtaken.html
 clearthtaken2.html
 clearthtaken3.html
 clearthwormjim.html
+cleffinghail.html
+cleffingmachines.html
 cleffingworms.html
+cleffingzombies.html
 cleggycar.html
 clelasticface.html
 clelectricman2.html
@@ -469,6 +477,7 @@ clintoruins.html
 clintospace.html
 clintospace2.html
 clintospace3.html
+cliqball.html
 clironsoldier.html
 cljacksmith.html
 cljacksmithencryptedorsmthn.html
@@ -597,6 +606,7 @@ clmotox3mpoolparty.html
 clmotox3mspookyland.html
 clmotox3mwinter.html
 clmountainbikeracer.html
+clmspacman.html
 clmultitask.html
 clmutilate-a-doll.html
 clmyfriendpedro.html
@@ -685,6 +695,7 @@ clpizzapapa.html
 clpizzatower.html
 clplantsvszombies.html
 clpokeblack.html
+clpokeblack2.html.html
 clpokeblazeblack2redux.html
 clpokeblue.html
 clpokediamond.html
@@ -723,6 +734,7 @@ clpokeplatinumrandomized.html
 clpokered.html
 clpokevoltwhite2redux.html
 clpokewhite.html
+clpokewhite2.html
 clpokeyellow.html
 clpolytrack.html
 clpolytrackgood.html
@@ -823,6 +835,7 @@ clsmadvance3.html
 clsmashkarts.html
 clsmashremix.html
 clsmbcrossover.html
+clsnailbob.html
 clsnakeis.html
 clsnakelike.html
 clsnipershot.html
@@ -888,6 +901,7 @@ clstrikeforceheroes.html
 clstrikeforceheroes2.html
 clstrikeforceheroes3.html
 clsubwaysurfers.html
+clsugarsugar.html
 clsuika.html
 clsuikapico.html
 clsuperbomberman.html
@@ -1017,6 +1031,7 @@ clvillager.html
 clvolleyrandom.html
 clwarfare1944.html
 clwarioland4.html
+clwariowarediy.html
 clwariowareinc.html
 clwartheknight.html
 clwaterpoolio.html
