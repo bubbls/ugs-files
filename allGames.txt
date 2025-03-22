@@ -1029,8 +1029,8 @@ clvex3.html
 clvex4.html
 clvex5.html
 clvex6.html
-clvex7.html
 clvex8.html
+clvexx3m2.html
 clvillager.html
 clvolleyrandom.html
 clwarfare1944.html
