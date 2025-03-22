@@ -322,6 +322,7 @@ cldunkshot.html
 clduskchild.html
 cldyingdreams.html
 clearntodie.html
+clearntodie.html
 clearthbound.html
 clearthbound3.html
 clearthtaken.html
@@ -475,7 +476,6 @@ cljellytruck.html
 cljellytruckgood.html
 cljetforcegemini.html
 cljetpackjoyride.html
-cljohnnyupgrade.html
 cljohnnyupgrade.html
 cljustfalllol.html
 cljustoneboss.html
