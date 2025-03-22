@@ -860,6 +860,7 @@ clsonicadvance3.html
 clsonicandknuckles.html
 clsonicbattle.html
 clsonicclassiccollection.html
+clsonicclassicheroes.html
 clsoniccolors.html
 clsonicdeltaorigins.html
 clsonicr.html
