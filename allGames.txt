@@ -676,6 +676,7 @@ clpapermario.html
 clparappatherapper.html
 clpartnersintime.html
 clpenaltykicks.html
+clpenguinpass.html
 clperfectdark.html
 clperfecthotel.html
 clphasma.html
