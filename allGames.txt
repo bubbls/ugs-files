@@ -761,6 +761,7 @@ clracingarena.html
 clradicalred.html
 clraftwars.html
 clragdollarchers.html
+clragdollhit.html
 clragdollio.html
 clragdollsoccer.html
 clrainbowsix.html
