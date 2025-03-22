@@ -316,6 +316,7 @@ cldreader.html
 cldriftboss.html
 cldrifthunters.html
 cldrivemad.html
+cldrivenwild.html
 cldrmario.html
 cldubstep.html
 clduckhunt.html
