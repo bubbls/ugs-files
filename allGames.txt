@@ -59,7 +59,7 @@ clNBAjam.html
 clNicktoonsFreezeFrameFrenzy.html
 clPokemonemeraldrouge.html
 clPokemonrocketedition.html
-clSonic1ScoreRush.html
+clSonic2ScoreRush.html
 clUltimatecardrivingsimulator.html
 clabandoned.html
 clabandoned3.html
