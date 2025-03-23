@@ -216,6 +216,7 @@ clcastlevania3.html
 clcastlevaniaariaofsorrow.html
 clcastlevanianes.html
 clcastlewarsmodern.html
+clcatmario.html
 clceleste.html
 clceleste2.html
 clcellardoor.html
@@ -802,7 +803,6 @@ clrodha.html
 clroguesoul.html
 clroguesoul2.html
 clrooftopsnipers.html
-clroomclicker.html
 clrun.html
 clrun2.html
 clrun3.html
