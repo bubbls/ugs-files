@@ -944,6 +944,7 @@ clsupersmashflash2butdifversion.html
 clsupremeduelist.html
 clsurvevio.html
 clsushicat.html
+clsushicat2.html
 clswerve.html
 clswordandshieldultimateplus.html
 clswordplay.html
