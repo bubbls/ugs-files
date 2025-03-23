@@ -802,6 +802,7 @@ clrodha.html
 clroguesoul.html
 clroguesoul2.html
 clrooftopsnipers.html
+clroomclicker.html
 clrun.html
 clrun2.html
 clrun3.html
