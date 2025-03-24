@@ -54,6 +54,7 @@ clFNAF2.html
 clFNAF3.html
 clFNAF4.html
 clGettothetopalthoughthereisnotop.html
+clHaroldsbadday.html
 clJUMP.html
 clNBAjam.html
 clNicktoonsFreezeFrameFrenzy.html
