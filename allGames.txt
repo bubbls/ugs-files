@@ -344,6 +344,7 @@ cleffingmachines.html
 cleffingworms.html
 cleffingzombies.html
 cleggycar.html
+cleggycar.html
 clelasticface.html
 clelectricman2.html
 clemulator.html
