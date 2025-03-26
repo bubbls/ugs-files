@@ -773,6 +773,7 @@ clragdollio.html
 clragdollsoccer.html
 clrainbowsix.html
 clrayman.html
+clraze.html
 clreachthecore.html
 clrecoil.html
 clredball.html
