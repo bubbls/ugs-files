@@ -818,6 +818,7 @@ clsandboxels.html
 clsandsofthecoliseum.html
 clsandtris.html
 clscrapmetal3.html
+clscubabear.html
 clsecretofmana.html
 clsfk.html
 clsfk2.html
