@@ -424,6 +424,7 @@ clgrandtheftautoadvance.html
 clgranny.html
 clgranny2.html
 clgranny22.html
+clgranny3.html
 clgravitymod.html
 clgrey-box-testing.html
 clgta.html
@@ -492,7 +493,6 @@ cljellytruck.html
 cljellytruckgood.html
 cljetforcegemini.html
 cljetpackjoyride.html
-cljohnnytrigger.html
 cljohnnyupgrade.html
 cljourneydownhill.html
 cljustfalllol.html
