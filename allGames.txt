@@ -492,6 +492,7 @@ cljellytruck.html
 cljellytruckgood.html
 cljetforcegemini.html
 cljetpackjoyride.html
+cljohnnytrigger.html
 cljohnnyupgrade.html
 cljourneydownhill.html
 cljustfalllol.html
