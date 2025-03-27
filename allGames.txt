@@ -679,6 +679,7 @@ clpaperio.html
 clpaperio3d.html
 clpaperiomania.html
 clpapermario.html
+clpapermariopromode.html
 clparappatherapper.html
 clpartnersintime.html
 clpenaltykicks.html
