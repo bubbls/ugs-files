@@ -971,6 +971,7 @@ clswordsandsandals.html
 clswordsandsandals2.html
 clswordsandsouls.html
 clsydneyshark.html
+cltabletanks.html
 cltag.html
 cltakeover.html
 cltallmanrun.html
