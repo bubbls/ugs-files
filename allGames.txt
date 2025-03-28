@@ -73,6 +73,7 @@ clachievmentunlocked2.html
 clachievmentunlocked3.html
 clachillies1fr.html
 clachillies2.html
+cladayintheoffice.html
 cladvancewars.html
 cladvancewars2.html
 clagariolite.html
