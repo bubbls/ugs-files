@@ -365,6 +365,7 @@ clfairytalevsonepiece.html
 clfamidash.html
 clfancypantsadventure.html
 clfancypantsadventure2.html
+clfattygenius.html
 clfeedus.html
 clfeedus2.html
 clfeedus3.html
