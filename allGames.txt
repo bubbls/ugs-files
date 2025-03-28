@@ -301,6 +301,7 @@ cldigdug26.html
 cldigtochina.html
 cldinodudes.html
 cldogeminer.html
+cldogeminer2.html
 cldonkeykong.html
 cldonkeykong64.html
 cldonkeykongcountry.html
