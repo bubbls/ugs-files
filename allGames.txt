@@ -935,6 +935,7 @@ clsuperfighters.html
 clsuperhot.html
 clsuperhotlinemiami.html
 clsuperhouseofdeadninjas.html
+clsuperliquidsoccer.html
 clsupermario.html
 clsupermario63.html
 clsupermario64.html
@@ -980,7 +981,6 @@ cltanukisunsetuhhhhhhhh.html
 cltapper.html
 cltastyplanet.html
 cltecmobowl.html
-cltelephonetrouble.html
 cltempest2000.html
 cltemplerun2.html
 clterra.html
