@@ -955,6 +955,7 @@ clsupermariobros2us.html
 clsupermariobros3.html
 clsupermariobros3real.html
 clsupermariokart.html
+clsupermarioland.html
 clsupermariorpg.html
 clsupermarioworld.html
 clsupermarioworld2.html
@@ -996,7 +997,6 @@ clterra.html
 clterritorywar.html
 cltetris.html
 cltetrisattack.html
-cltetrisgba.html
 cltheclassroom.html
 cltheclassroom2.html
 cltheclassroom3.html
