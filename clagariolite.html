@@ -1,7 +1,34 @@
-
+<!DOCTYPE html>
 
 <!-- Ultimate Game Stash file--> 
 <!-- For the regularly updating doc go to https://docs.google.com/document/d/1_FmH3BlSBQI7FGgAQL59-ZPe8eCxs35wel6JUyVaG8Q/ -->
 
 
-<html><head><base target="_blank"></head><body><div id="fr" data="<iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/bobydob/JSEngine@ba92ad3b1a5df6a4dae03987b78c5474e2c0d185/build/aio/agio.xml&amp;container=ig&quot; frameborder=&quot;0&quot; allowfullscreen></iframe>"><iframe width="100%" height="100%" src="https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/bobydob/JSEngine@ba92ad3b1a5df6a4dae03987b78c5474e2c0d185/build/aio/agio.xml&amp;container=ig" frameborder="0" allowfullscreen=""></iframe></div>
+<html>
+ <head>
+ <script src='https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/436874@80f8732e80020f5e1985fc807267ed0637e230a7/jquery-latest.min.js'></script> 
+
+ <script src='https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/436874@80f8732e80020f5e1985fc807267ed0637e230a7/etc.js'></script> 
+ <script src="https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/436874@80f8732e80020f5e1985fc807267ed0637e230a7/circle-game.js"></script> 
+ <script type='text/javascript'>
+  $(document).ready(function() {
+    if(isCanvasSupported())
+      cg.init()
+    else
+      $(document.body).html("<style type='text/css'>p {text-align: center} body {padding: 10px}</style><p>You browser does not support HTML5, which is required to run this game.</p><p>I recommend Google Chrome <br /><a href='http://www.google.com/chrome'><img src='' /></a></p>")
+  })
+</script> 
+ <style type='text/css'>
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  background-color: black;
+}
+</style> 
+  
+</head>
+   <body>
+<canvas></canvas>
+
