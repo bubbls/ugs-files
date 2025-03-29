@@ -306,6 +306,7 @@ cldonkeykong.html
 cldonkeykong64.html
 cldonkeykongcountry.html
 cldonkeykongcountry2.html
+cldonkeykongnes.html
 cldontescape.html
 cldontescape2.html
 cldontescape3.html
@@ -379,7 +380,6 @@ clffmysticquest.html
 clfifa2000.html
 clfinalearth2.html
 clfinalfantasy.html
-clfinalfantasyII.html
 clfinalfantasyVI.html
 clfinalfantasyVII.html
 clfinalfantasyVIId2.html
