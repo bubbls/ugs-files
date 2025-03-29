@@ -24,6 +24,7 @@ cl2Dshooting.html
 cl2dshooting(1).html
 cl3dash.html
 cl40exescape.html
+cl4thandgoal.html
 cl60secondsburgerrun.html
 cl60secondssantarun.html
 cl60secsantarun.html
