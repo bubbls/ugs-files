@@ -78,6 +78,7 @@ cladayintheoffice.html
 cladvancewars.html
 cladvancewars2.html
 clagariolite.html
+clagariolite.html
 clageofwar.html
 clageofwar2.html
 clahoysurvival.html
