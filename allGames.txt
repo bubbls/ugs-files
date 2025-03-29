@@ -379,6 +379,7 @@ clffmysticquest.html
 clfifa2000.html
 clfinalearth2.html
 clfinalfantasy.html
+clfinalfantasyII.html
 clfinalfantasyVI.html
 clfinalfantasyVII.html
 clfinalfantasyVIId2.html
