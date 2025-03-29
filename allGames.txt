@@ -955,7 +955,7 @@ clsupermariobros2us.html
 clsupermariobros3.html
 clsupermariobros3real.html
 clsupermariokart.html
-clsupermarioland.html
+clsupermarioland2.html
 clsupermariorpg.html
 clsupermarioworld.html
 clsupermarioworld2.html
