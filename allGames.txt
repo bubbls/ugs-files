@@ -579,6 +579,7 @@ clmaskedforcesunlimited.html
 clmedievalshark.html
 clmegaman.html
 clmegaman2.html
+clmegaman2gba.html
 clmegaman3.html
 clmegaman4.html
 clmegaman5.html
@@ -955,7 +956,6 @@ clsupermariobros2us.html
 clsupermariobros3.html
 clsupermariobros3real.html
 clsupermariokart.html
-clsupermarioland2.html
 clsupermariorpg.html
 clsupermarioworld.html
 clsupermarioworld2.html
