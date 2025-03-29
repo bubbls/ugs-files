@@ -410,6 +410,7 @@ clfunnyshooter2.html
 clfzero.html
 clfzerox.html
 clgalaga.html
+clgameandwatchcollection.html
 clgeneralchaos.html
 clgeometrydashlite.html
 clgetawayshootout.html
@@ -579,7 +580,6 @@ clmaskedforcesunlimited.html
 clmedievalshark.html
 clmegaman.html
 clmegaman2.html
-clmegaman2gba.html
 clmegaman3.html
 clmegaman4.html
 clmegaman5.html
