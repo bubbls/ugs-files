@@ -822,6 +822,7 @@ clroadoffury.html
 clroadofthedead.html
 clrocketknightadventures.html
 clrocketleague.html
+clrocketsoccerderby.html
 clrodha.html
 clroguesoul.html
 clroguesoul2.html
