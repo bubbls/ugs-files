@@ -965,6 +965,7 @@ clsupermetroid.html
 clsupermonkeyballjr.html
 clsuperoliverworld.html
 clsuperpunchout.html
+clsuperpuzzlefighter2turbo.html
 clsupersmashbros.html
 clsupersmashflash.html
 clsupersmashflash2.html
