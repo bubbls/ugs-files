@@ -988,6 +988,7 @@ clswordsandsandals2.html
 clswordsandsouls.html
 clsydneyshark.html
 cltabletanks.html
+cltabletennisworldtour.html
 cltag.html
 cltakeover.html
 cltallmanrun.html
