@@ -119,8 +119,8 @@ clbackrooms2D.html
 clbackyardbaseball.html
 clbackyardbaseball09.html
 clbackyardbaseball10.html
+clbaconmaydie.html
 clbadicecream.html
-clbadpiggies.html
 clbadtimesim.html
 clbadtimesimulator.html
 clbaldisbasics.html
