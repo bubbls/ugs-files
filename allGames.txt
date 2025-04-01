@@ -120,6 +120,7 @@ clbackyardbaseball.html
 clbackyardbaseball09.html
 clbackyardbaseball10.html
 clbadicecream.html
+clbadpiggies.html
 clbadtimesim.html
 clbadtimesimulator.html
 clbaldisbasics.html
