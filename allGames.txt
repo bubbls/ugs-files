@@ -171,6 +171,7 @@ clblightborne.html
 clblockblast.html
 clblockcraftparkour.html
 clblockcraftshooter.html
+clblockthepig.html
 clblockysnakes.html
 clbloodtournament.html
 clbloonsTD1.html
