@@ -508,6 +508,7 @@ cljourneydownhill.html
 cljustfalllol.html
 cljustoneboss.html
 clkalikan.html
+clkingdomheartsrecoded.html
 clkirby64.html
 clkirbyandtheamzingmirror.html
 clkirbysadventure.html
