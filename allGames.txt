@@ -665,6 +665,7 @@ clonepiecefighting.html
 clonlyup.html
 cloperius.html
 cloppositeday.html
+clorbofcreation.html
 clordinarysonicromhack.html
 clormmimastickwithclsoitcanberememberedoyeahclalienhominid.html
 closu.html
@@ -887,7 +888,6 @@ clsoccerrandom.html
 clsoccerrandomgood.html
 clsolitaire.html
 clsonic3andknuckles.html
-clsonic3complete.html
 clsonic3dblastdx.html
 clsonicadvance.html
 clsonicadvance2.html
