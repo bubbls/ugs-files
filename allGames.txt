@@ -887,6 +887,7 @@ clsoccerrandom.html
 clsoccerrandomgood.html
 clsolitaire.html
 clsonic3andknuckles.html
+clsonic3complete.html
 clsonic3dblastdx.html
 clsonicadvance.html
 clsonicadvance2.html
