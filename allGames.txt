@@ -899,6 +899,7 @@ clsonicclassiccollection.html
 clsonicclassicheroes.html
 clsoniccolors.html
 clsonicdeltaorigins.html
+clsonicmegamix.html
 clsonicr.html
 clsonicrevert.html
 clsonicrush.html
