@@ -913,6 +913,7 @@ clspaceiskey.html
 clspaceiskey2.html
 clspaceiskeyxmas.html
 clspiralroll.html
+clsprunked.html
 clsprunki.html
 clsprunkiclicker.html
 clsquidplayground.html
