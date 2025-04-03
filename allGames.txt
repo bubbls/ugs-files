@@ -526,6 +526,7 @@ clknightmaretower.html
 clkoopasrevenge.html
 cllastfirered.html
 cllasthorizon.html
+clleaderstrike.html
 cllearntofly.html
 cllearntofly2.html
 cllearntofly3.html
