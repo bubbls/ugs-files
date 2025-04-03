@@ -36,6 +36,7 @@ clADarkRoom.html
 clAwesomePirates.html
 clB3313.html
 clBTD1.html
+clBig_Time_Butter_Baron.html
 clBountyOfOne.html
 clDragonBallZTheLegacyofGoku.html
 clFIFA07.html
@@ -346,7 +347,6 @@ cldunkshot.html
 clduskchild.html
 cldyingdreams.html
 clearntodie.html
-clearntodie2.html
 clearthbound.html
 clearthbound3.html
 clearthtaken.html
