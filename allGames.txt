@@ -195,6 +195,7 @@ clbomberman.html
 clbomberman2.html
 clbottleflip3d.html
 clbottlejump3d.html
+clbounceback.html
 clbowlalt.html
 clbowmasters.html
 clboxinglive2.html
