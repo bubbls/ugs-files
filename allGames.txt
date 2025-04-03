@@ -88,6 +88,7 @@ clahoysurvival.html
 clakoopasrevenge.html
 clakoopasrevenge2.html
 clalienhominid.html
+clalienhominidgba.html
 clalientransporter.html
 clalienvspredator.html
 clallocation.html
