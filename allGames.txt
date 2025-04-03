@@ -57,6 +57,7 @@ clFNAF4.html
 clGettothetopalthoughthereisnotop.html
 clHaroldsbadday.html
 clJUMP.html
+clMetalSonicHyperdrive.html
 clNBAjam.html
 clNicktoonsFreezeFrameFrenzy.html
 clPokemonemeraldrouge.html
