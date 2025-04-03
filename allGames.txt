@@ -133,6 +133,7 @@ clbaldisfunnewschoolultimate.html
 clballsandbricks.html
 clballsandbricksgood.html
 clbananasimulator.html
+clbanditgunslingers.html
 clbanjokazooie.html
 clbanjotooie.html
 clbankbreakout2.html
