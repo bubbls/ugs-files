@@ -64,6 +64,7 @@ clPokemonemeraldrouge.html
 clPokemonrocketedition.html
 clPokémonstunningsteel.html
 clSonic2ScoreRush.html
+clSonicHellfireSaga.html
 clUltimatecardrivingsimulator.html
 clabandoned.html
 clabandoned3.html
