@@ -61,6 +61,7 @@ clJUMP.html
 clKenGriffeyJrPresentsMajorLeagueBaseball.html
 clMetalSonicHyperdrive.html
 clNBAjam.html
+clNewSuperMarioWorld2AroundtheWorld.html
 clNicktoonsFreezeFrameFrenzy.html
 clPokemonemeraldrouge.html
 clPokemonrocketedition.html
